@@ -5,13 +5,13 @@
 
 - 💕 My research interest starts from project [2016-Presidential-Election-Clusterability-Analysis](https://github.com/SamuelLFW/2016-Presidential-Election-Clusterability-Analysis)
 
-- 🌱 I’m currently learning **Big data cloud computing**
+- 😼 I’m currently learning **Big data cloud computing**
 
-- 💬 Ask me about **Unsupervised Learning Algorithms**
+- 👨‍🔬 Ask me about **Unsupervised Learning Algorithms**
 
-- 📫 How to reach me **wlf1091407666@gmail.com**
+- 📧 How to reach me **wlf1091407666@gmail.com**
 
-- 📄 Work experience **📊 Data Analyst Intern**
+- 🔬 Work experience **📊 Data Analyst Intern**
 
 - ⚡ Fun fact **🏋️ Gyming passionates!**
 
