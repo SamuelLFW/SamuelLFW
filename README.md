@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linfeng(Samuel) Wang</h1>
 <h3 align="center">A passionated data scientist studying at Uchicago</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuellfw&label=Profile%20views&color=0e75b6&style=flat" alt="samuellfw" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuellfw&label=Profile%20views&color=0e75b6&style=flat" alt="samuellfw" /> </p> -->
 
 
 - 💕 My research interest starts from project [2016-Presidential-Election-Clusterability-Analysis](https://github.com/SamuelLFW/2016-Presidential-Election-Clusterability-Analysis)
