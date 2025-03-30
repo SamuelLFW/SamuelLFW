@@ -5,7 +5,7 @@
 
 - 💕 My research interest starts from project [2016-Presidential-Election-Clusterability-Analysis](https://github.com/SamuelLFW/2016-Presidential-Election-Clusterability-Analysis)
 
-- 😼 I’m currently learning **LLMs**
+- 😼 I’m currently learning **Deep Learning, LLMs**
 
 - 👨‍🔬 Ask me about **Unsupervised Learning Algorithms**
 
