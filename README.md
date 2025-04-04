@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linfeng(Samuel) Wang</h1>
-<h3 align="center">A passionated data scientist studying at Uchicago</h3>
+<h3 align="center">A passionated data scientist studying at UChicago</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuellfw&label=Profile%20views&color=0e75b6&style=flat" alt="samuellfw" /> </p> -->
 
