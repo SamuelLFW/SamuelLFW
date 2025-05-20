@@ -6,15 +6,9 @@
 
 - 💕 My research interest starts from project [2016-Presidential-Election-Clusterability-Analysis](https://github.com/SamuelLFW/2016-Presidential-Election-Clusterability-Analysis)
 
-- 😼 I’m currently learning **Deep Learning, LLMs**
-
-- 👨‍🔬 Ask me about **Unsupervised Learning Algorithms**
+- 😼 I’m currently learning **Deep Learning**
 
 - 📧 How to reach me **wlf1091407666@gmail.com**
-
-- 🔬 Work experience **📊 Data Analyst Intern**
-
-- ⚡ Fun fact **🏋️ Gyming passionates!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
